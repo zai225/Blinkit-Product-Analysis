@@ -1,3 +1,4 @@
+<img width="713" alt="Image" src="https://github.com/user-attachments/assets/99068198-a91e-4dc7-9146-d9b6df482c51" />
 About the Blinkit Analysis Project
 Welcome to my Blinkit Data Analysis Project, where I explored a comprehensive dataset to uncover key business insights using Power BI, Power Query Editor, and DAX. This project focuses on analyzing sales trends, product performance, outlet efficiency, and customer purchasing patterns to drive strategic decision-making.
 
