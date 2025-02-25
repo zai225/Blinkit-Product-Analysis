@@ -7,4 +7,4 @@ Fat Content Analysis: Understanding consumer preference for Low Fat vs. Regular 
 Product Performance: Identifying top-selling and least-selling categories to optimize inventory and marketing strategies.
 Outlet Analysis: Evaluating sales by outlet size, type, and establishment year to assess business growth and operational efficiency.
 Sales Trends & Profitability: Tracking yearly sales performance, peak sales periods, and revenue distribution to improve financial planning.
-Through advanced data visualization and analytics, this project provides valuable insights to enhance sales strategies, optimize store operations, and improve overall business performance on the Blinkit platform. 🚀
+Through advanced data visualization and analytics, this project provides valuable insights to enhance sales strategies, optimize store operations, and improve overall business performance on the Blinkit platform. 
